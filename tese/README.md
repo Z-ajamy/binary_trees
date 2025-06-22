@@ -1,5 +1,7 @@
 # Tests Directory
 
+![Binary Trees test](https://i.pinimg.com/736x/47/66/09/4766091a460842c56030f449fb8c4e20.jpg)
+
 This directory contains test files and resources for the Binary Trees project.
 
 ## Running Tests

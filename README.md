@@ -1,6 +1,6 @@
 # 0x1D. C - Binary Trees
 
-![Monty](https://i.pinimg.com/736x/eb/8e/f9/eb8ef9bf06e88b6ddc4032e5e8ed0be3.jpg)
+![Binary Trees](https://i.pinimg.com/736x/eb/8e/f9/eb8ef9bf06e88b6ddc4032e5e8ed0be3.jpg)
 
 ## Description
 This project focuses on implementing various binary tree operations and algorithms in C. A binary tree is a hierarchical data structure where each node has at most two children, referred to as the left child and the right child. This project covers fundamental tree operations, traversal algorithms, and different types of binary trees.
